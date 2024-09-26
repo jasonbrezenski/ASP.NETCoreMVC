@@ -48,3 +48,4 @@
 /Users/jasonbrezenski/Desktop/repos/ASP.NETCoreMVC/ASP.NETCoreMVC/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
 /Users/jasonbrezenski/Desktop/repos/ASP.NETCoreMVC/ASP.NETCoreMVC/obj/Debug/net8.0/ASP.NETCoreMVC.csproj.AssemblyReference.cache
 /Users/jasonbrezenski/Desktop/repos/ASP.NETCoreMVC/ASP.NETCoreMVC/obj/Debug/net8.0/ASP.NETC.4655363C.Up2Date
+/Users/jasonbrezenski/Desktop/repos/ASP.NETCoreMVC/ASP.NETCoreMVC/obj/Debug/net8.0/ASP.NETCoreMVC.sourcelink.json
