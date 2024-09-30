@@ -52,7 +52,7 @@ public class ProductRepository : IProductRepository
     public void DeleteProduct(Product product)
     {
         _connection.Execute("DELETE FROM reviews WHERE ProductID = @id;", new { id = product.ProductID });
-        _connection.Execute("DELETE FROM sales WHERE ProductID = @ id;", new { id = product.ProductID });
+        _connection.Execute("DELETE FROM sales WHERE ProductID = @id;", new { id = product.ProductID });
         _connection.Execute("DELETE FROM products WHERE ProductID = @id;", new { id = product.ProductID });
     }
 }
